@@ -1,27 +1,27 @@
 # projeto-extensao.-L-
 
-Jogo 2D – Projeto de Extensão
+**Jogo 2D – Projeto de Extensão**
 
-Introdução
+**Introdução**
 Este projeto vai ser focado no desenvolvimento de um jogo 2D utilizando a linguagem Python em conjunto com a engine Unity.
 
 
 
-Documentação
+**Documentação**
 
 
 Link para os documentos:
 
-Linguagens utilizadas:
+**Linguagens utilizadas:**
 
 Python
 
-Ferramentas utilizadas:
+**Ferramentas utilizadas:**
 
 Visual Studio Code (VSCode)
 GitHub
 Unity
 
-Equipe
+**Equipe**
 
 Lucas Rafael
