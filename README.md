@@ -13,14 +13,15 @@ Documentação
 Link para os documentos:
 
 Linguagens utilizadas:
+
 Python
 
 Ferramentas utilizadas:
+
 Visual Studio Code (VSCode)
-
 GitHub
-
 Unity
 
 Equipe
+
 Lucas Rafael
